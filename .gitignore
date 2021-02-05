@@ -1,0 +1,29 @@
+## IDEs and editors
+# idea
+.idea/
+*.iml
+*.iws
+# vscode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+# others
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+## Compiled output
+# maven
+log/
+target/
+
+# system files
+.DS_Store
+Thumbs.db
+nohup.out
